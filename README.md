@@ -4,7 +4,7 @@ A full-stack web application that automates student attendance using RFID techno
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 🔐 Role-based authentication (Student & Faculty)
 * 📡 RFID-based automatic attendance marking
