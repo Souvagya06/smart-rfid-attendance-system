@@ -134,7 +134,7 @@ http://localhost:3000
 ## 👨‍💻 Contributors
 
 * Souvagya Karmakar – Section B – Roll 78
-* Swapnil Sadhu – Section A
+* Swapnil Sadhu – Section A - Roll - 87
 * Anirban Pal – Section B – Roll 10
 * Sugata Nayak – Section B – Roll 86
 * Ronit Mishra – Section B – Roll 58
