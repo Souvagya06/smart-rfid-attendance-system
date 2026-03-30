@@ -1,4 +1,4 @@
-# 📡 Smart RFID Attendance Management System
+ # 📡 Smart RFID Attendance Management System
 
 A full-stack web application that automates student attendance using RFID technology, integrated with a modern React frontend and a Node.js + SQLite backend.
 
