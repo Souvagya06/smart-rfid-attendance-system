@@ -153,4 +153,4 @@ http://localhost:3000
 
 ## ⭐ Acknowledgements
 
-This project was developed as part of a full-stack internship and demonstrates integration of IoT hardware with modern web technologies.
+This project was developed as part of a full-stack internship and demonstrates integration of IoT hardware with modern web technologies
